@@ -13,7 +13,7 @@ tags:
   - Computer Engineering
 ---
 
-##  Meta Glasses and Veillance
+## Meta Glasses and Veillance
 
 I got a chance to work with the father of wearable computing Prof <a href="https://en.wikipedia.org/wiki/Steve_Mann_(inventor)" target="_blank">Steve Mann</a>
  on lots of wearables such as Meta Spaceglasses(not Facebook). 
@@ -38,7 +38,7 @@ The main advantage of this concept is that multi monitors can be replaced by a s
 
 ## Fitness Systems
 
-Next, as part of the masters project, we utilised the concept of time integral of distance( called absement) based fitness exercises based system ( called MannFit) .
+Next, as part of the masters project, we utilised the concept of time integral of distance( called absement) based fitness exercises based system ( called <a href="https://wearcam.org/mannfit" target="_blank">MannFit</a> ) .
 
 The prototypes included a wobble board n hanging bars. The concept can be understood  as the distance increases with time absement increases. The goal is to minimise distance or instability on a wobble board or hanging bars.
 
@@ -48,7 +48,7 @@ We  showcased the game at IEEE GEM 2014, the gaming conference.
 I got chance to interact with other wearables such as myo arm band based on EMG.
 
 ## Brain Computer Interface Interaxon Muse
-Next, we used BCI ( brain computer interface) , a meditation band based on EEG called Muse. I helped develop the neural networks based drowsiness detection android mobile app that used EEG to detect drowsiness.
+Next, we used BCI ( brain computer interface) , a meditation band based on EEG called  <a href="https://choosemuse.com/" target="_blank"> Muse</a>. I helped develop the neural networks based drowsiness detection android mobile app that used EEG to detect drowsiness.
 
 Next, we worked on an app to measure creativity ( Divergent) using EEG.  We collected user responses to find alternative uses to common objects. Based on the gathered data, we trained a neural network to light up a bulb based on EEG signals if a creative idea occurred.
-We showcased the concept at IEEE GEM 2015.
+We showcased the concept at <a href="https://ieeexplore.ieee.org/abstract/document/7377239" target="_blank">IEEE GEM 2015</a>.
