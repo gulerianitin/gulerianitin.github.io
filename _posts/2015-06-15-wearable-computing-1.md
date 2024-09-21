@@ -13,12 +13,14 @@ tags:
   - Computer Engineering
 ---
 
+![veillance](..\images\Surveilluminescent_Lights_in_Motion_handwash_faucets_03.jpg)
+
 ## Meta Glasses and Veillance
 
 I got a chance to work with the father of wearable computing Prof <a href="https://en.wikipedia.org/wiki/Steve_Mann_(inventor)" target="_blank">Steve Mann</a>
  on lots of wearables such as Meta Spaceglasses(not Facebook). 
 <a href="https://www.youtube.com/watch?v=H9ZOpQzjukY" target="_blank">Meta</a>
-One of the first projects I worked on was visualising the sightfield of a camera. It is basically visualisation of the region visible to a camera ![veillance](..\images\Surveilluminescent_Lights_in_Motion_handwash_faucets_03.jpg)
+One of the first projects I worked on was visualising the sightfield of a camera. It is basically visualisation of the region visible to a camera 
 
  It's scientific name is veillance flux.
 

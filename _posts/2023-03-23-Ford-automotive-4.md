@@ -9,6 +9,10 @@ tags:
   - Android
 ---
 
+![F150](..\images\Ford-F-150_2023_with_trailer.jpg)
+
+I created new features as well as bug fixes in the Trailer app. Below is the description of the app.
+
 The **Ford Trailer app** is a feature integrated into Ford vehicles, specifically designed to assist drivers with towing trailers. Its main goal is to simplify the often complex task of connecting, towing, and managing trailers. Here’s a breakdown of its core functionalities:
 
 1. **Trailer Backup Assist**: This feature helps drivers when reversing a trailer. By turning a knob on the dashboard, the system controls the steering while the driver manages the gas and brake pedals. It uses sensors and cameras to guide the trailer in the desired direction, eliminating the need to think in reverse when backing up.
@@ -29,4 +33,4 @@ The **Ford Trailer app** is a feature integrated into Ford vehicles, specificall
 
 These features are designed to enhance safety, reduce the stress associated with towing, and improve the overall driving experience for Ford owners who tow trailers.
 
-I worked with certain features and bug fixes in this app.
+

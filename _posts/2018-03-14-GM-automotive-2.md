@@ -1,6 +1,6 @@
 ---
 title: 'Infotainment System'
-date: 2016-08-14
+date: 2018-08-14
 permalink: /posts/GM-automotive
 tags:
   - Automotive
@@ -8,13 +8,32 @@ tags:
   - Infotainment System
   - Android
 ---
+
+
+![Cadillac](..\images\Cadillac-XTS_2013_1280x960.jpg)
+
+
+## Introduction
+
 At GM, I contributed to the development of the Cadillac CUE(Cadillac User Experience) infotainment system, working on a fork of the Android Open Source Project (AOSP) that was acquired from Harman Kardon around 2014. The infotainment system, although it appears simple when integrated into a car, consists of numerous hardware modules. The main components, like a computer, include a motherboard from vendors such as Intel or Texas Instruments. Additional modules manage specific functions like climate control (HVAC) and seat massage.
 
+
+
+![GM infotainment system](..\images\GM_Infotainement_System.jpg)
+
+
+
+## Main Responsibilities
 My primary focus was the Settings application, similar to the settings app on mobile devices, which controls the entire infotainment system's settings. While developing user stories was straightforward, bug fixing proved challenging due to the app's interfaces with other systems, often requiring collaboration across teams.
 
 I also worked with a Windows-based vehicle simulator that used CAN signals to emulate vehicle functions. My role in this project included utilizing C# to interact with the simulator. For my Six Sigma Green Belt project, I automated parts of the simulator, which resulted in a 40% reduction in defect resolution time. Additionally, parts of the project involved building the AOSP in a Linux environment, requiring the use of powerful computing resources.
 
-Below is the description of the infotainment system: 
+![GM infotainment system](..\images\GM_Infotainment_Complete.webp)
+
+
+
+
+## Description of the infotainment system  
 
 The GM Cadillac CUE (Cadillac User Experience) infotainment system offers a range of features designed to provide a smooth and connected experience for drivers and passengers. The Settings app within the CUE system allows users to customize various aspects of the vehicle’s infotainment, comfort and connectivity functions. Here’s how it typically works:
 

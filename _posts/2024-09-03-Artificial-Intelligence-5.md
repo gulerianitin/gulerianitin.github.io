@@ -9,6 +9,7 @@ tags:
   - Harvard
   - Stanford
   - Coursera
+  - HuggingFace
 ---
 
 
@@ -16,65 +17,76 @@ tags:
 
 
 
+
+
+
+#  Self Learn AI
+
 I have listed the courses I
- took to self learn AI instead of relying on a full time Master's Degree. These resources can help others in navigating the AI and machine learning landscape.
+ took to self learn AI without relying on a full time Master's Degree. These resources can help others in navigating the AI and machine learning landscape. Paid courses are marked paid, others are free to access. These cover the blue region in the Brain AI map above.
+
+## Prerequisites
+Learn from Harvard and  Luis Serrano on Coursera
+
+* <a href="https://cs50.harvard.edu/ai/2024/" target="_blank">CS50 Course Website</a>
+
+* <a href ="https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm" target="blank">Youtube Playlist CS50</a>
 
 
-A short introduction to AI with self learning
-
-
-Prerequisites
-
-<a href="https://cs50.harvard.edu/ai/2024/" target="_blank">CS50</a>
-
-<a href ="https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm" target="blank">Youtube Playlist</a>
-
-
-
-<a href ="https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="blank">Mathematics for Machine learning and Data Science</a>
-
-
-Indoroduction to Machine Learning
-
-<a href ="https://www.coursera.org/specializations/
-machine-learning-introduction">Machine Learning Specialization Coursera
-</a>
-
-<a href ="https://www.coursera.org/specializations/deep-learning" target="blank">Deep Learning Specialization Coursera
-</a>
-
-
-<a href ="https://www.kaggle.com/learn
+* <a href ="https://www.kaggle.com/learn
 " target="blank">Short Courses on Kaggle
 </a>
 
+* <a href ="https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="blank">Mathematics for Machine learning and Data Science Coursera (paid)</a>
 
-<a href ="https://course.fast.ai/" target="blank"> Deep Learning Fast AI
+
+## Introduction to Machine Learning
+
+Learn Machine Learning and Deep Learning from renowned Professor Andrew Ng
+
+* <a href ="https://www.coursera.org/specializations/
+machine-learning-introduction">Machine Learning Specialization Coursera (paid)
 </a>
 
-Advanced Courses
+* <a href ="https://www.coursera.org/specializations/deep-learning" target="blank">Deep Learning Specialization Coursera (paid)
+</a>
 
-<a href ="https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="blank">Deep Reinforcement Learning Hugging Face</a>
 
 
-<a href ="https://huggingface.co/learn/deep-rl-course/unit0/introduction
+
+* <a href ="https://course.fast.ai/" target="blank"> Deep Learning Fast AI
+</a>
+
+## Advanced Courses
+
+Free courses from Hugging Face 
+
+* <a href ="https://huggingface.co/learn/deep-rl-course/unit0/introduction" target="blank">Deep Reinforcement Learning</a>  
+
+
+* <a href ="https://huggingface.co/learn/deep-rl-course/unit0/introduction
 Computer vision Hugging Face" target="blank">Computer Vision</a>
-<a href ="https://huggingface.co/learn/nlp-course/chapter1/1
+
+* <a href ="https://huggingface.co/learn/nlp-course/chapter1/1
 " target="blank">Natural Language Processing</a>
 
-Other Resources
+## Other Resources
 
-<a href ="https://d2l.ai/
+* <a href ="https://d2l.ai/
 " target="blank">D2L book 
 </a>
 
-<a href ="https://www.deeplearningbook.org/
+* <a href ="https://www.deeplearningbook.org/
 " target="blank">Deep Learning book 
 </a>
 
 
-<a href ="https://youtu.be/TCCjZe0y4Qc?si=Ui792qkzjfA6ksZf
-" target="blank">Introduction to Reinforcement Learning(DeepMindxUCL) Youtube 
+* <a href ="https://youtu.be/TCCjZe0y4Qc?si=Ui792qkzjfA6ksZf
+" target="blank">Introduction to Reinforcement Learning Youtube (DeepMindxUCL)  
 </a>
 
+
+* <a href ="https://karpathy.ai/zero-to-hero.html
+" target="blank">Neural Networks: Zero to Hero 
+</a>
 
