@@ -1,5 +1,5 @@
 ---
-title: 'Articial Intelligence'
+title: 'Artificial Intelligence'
 date: 2024-09-03
 permalink: /posts/artificial-intelligence-learning
 tags:
@@ -11,54 +11,70 @@ tags:
   - Coursera
 ---
 
-I have listed the courses I took to self learn AI instead of relying on a full time Master's Degree. These resources can help others in navigating the AI and machine learning landscape.
+
+![Brain AI map](..\images\AI_map_brain.jpeg)
+
+
+
+I have listed the courses I
+ took to self learn AI instead of relying on a full time Master's Degree. These resources can help others in navigating the AI and machine learning landscape.
 
 
 A short introduction to AI with self learning
 
 
-CS50
+Prerequisites
+
 <a href="https://cs50.harvard.edu/ai/2024/" target="_blank">CS50</a>
 
 <a href ="https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm" target="blank">Youtube Playlist</a>
 
 
 
-Mathematics for Machine learning and Data Science
-[Course Link](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+<a href ="https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="blank">Mathematics for Machine learning and Data Science</a>
 
 
+Indoroduction to Machine Learning
 
-Machine Learning Specialization Coursera
-https://www.coursera.org/specializations/
-machine-learning-introduction
-Deep Learning Specialization Coursera
-https://www.coursera.org/specializations/deep-learning
-Deep Learning Fast.ai
-https://course.fast.ai/
-Deep Reinforcement Learning Hugging Face
-https://huggingface.co/learn/deep-rl-course/unit0/introduction
-Computer vision Hugging Face
-https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome
-Natural Language Processing Hugging Face
-https://huggingface.co/learn/nlp-course/chapter1/1
-Short Courses on Kaggle
-https://www.kaggle.com/learn
-Other Books
-D2L book https://d2l.ai/
-Deep Learning Book
+<a href ="https://www.coursera.org/specializations/
+machine-learning-introduction">Machine Learning Specialization Coursera
+</a>
 
-Unread more theoretical resources
-https://www.deeplearningbook.org/
-Deep Reinforcement Learning (Deepmind)
-Deep learning Book Yann Lecun
+<a href ="https://www.coursera.org/specializations/deep-learning" target="blank">Deep Learning Specialization Coursera
+</a>
 
 
-AI Include image of brainIntroduction to ML by Coursera
-Learnt supervised learning, unsupervised and reinforcement learning.
-Learnt neural networks.  Reinforcement learning for landing lunar on moon
-Deep Learning BackpropogationComputer Vision
-Fast.ai deep learning 
-HuggingfaceDeep reinforcement learning Computer Vision Natural Language Processing 
+<a href ="https://www.kaggle.com/learn
+" target="blank">Short Courses on Kaggle
+</a>
 
-KaggleList courses
+
+<a href ="https://course.fast.ai/" target="blank"> Deep Learning Fast AI
+</a>
+
+Advanced Courses
+
+<a href ="https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="blank">Deep Reinforcement Learning Hugging Face</a>
+
+
+<a href ="https://huggingface.co/learn/deep-rl-course/unit0/introduction
+Computer vision Hugging Face" target="blank">Computer Vision</a>
+<a href ="https://huggingface.co/learn/nlp-course/chapter1/1
+" target="blank">Natural Language Processing</a>
+
+Other Resources
+
+<a href ="https://d2l.ai/
+" target="blank">D2L book 
+</a>
+
+<a href ="https://www.deeplearningbook.org/
+" target="blank">Deep Learning book 
+</a>
+
+
+<a href ="https://youtu.be/TCCjZe0y4Qc?si=Ui792qkzjfA6ksZf
+" target="blank">Introduction to Reinforcement Learning(DeepMindxUCL) Youtube 
+</a>
+
+
