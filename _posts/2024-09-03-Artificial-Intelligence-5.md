@@ -90,3 +90,7 @@ Computer vision Hugging Face" target="blank">Computer Vision</a>
 " target="blank">Neural Networks: Zero to Hero 
 </a>
 
+* <a href ="https://fleuret.org/francois/lbdl.html
+" target="blank">The Little Book of Deep Learning ( for mobile use) 
+</a>
+
