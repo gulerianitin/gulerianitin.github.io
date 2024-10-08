@@ -25,6 +25,8 @@ One of the first projects I worked on was visualising the sightfield of a camera
  It's scientific name is veillance flux.
 
 We worked on the mobile prototype of the same. Using Android phones and ios phones, we connected the camera to a light stick( called bugbroom). And via led lights we take a long exposure picturr of the light stick resulting in visualisation of sightfield of camera.
+![Mobile Veillance](..\images\surveilluminescence_and_sousveilluminescence.png)
+
 
 We showcased this project at augmented world expo and Meta Spaceglasses headquarters in Silicon Valley.
 

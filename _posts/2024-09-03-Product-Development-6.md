@@ -24,7 +24,7 @@ I participated in many Hackathons such as PayPal Hackathon, Dementia FB Hackatho
 
 
 ## Startups
-I was Chief Product Officer at nLux, a smart facial lighting startup and worked as a consultant for Altius Analytics
+I was the Chief Product Officer at nLux, a smart facial lighting startup and worked as a consultant for Altius Analytics
 
 
 * Startups generally have fast iterations on product design and development.
