@@ -1,5 +1,5 @@
 ---
-title: 'Infotainment System'
+title: 'GM Infotainment System'
 date: 2018-08-14
 permalink: /posts/GM-automotive
 tags:
