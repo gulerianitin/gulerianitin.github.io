@@ -1,5 +1,5 @@
 ---
-title: 'Self LearningArtificial Intelligence'
+title: 'Self Learning Artificial Intelligence'
 date: 2024-09-03
 permalink: /posts/artificial-intelligence-learning
 tags:
