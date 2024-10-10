@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![Cadillac](..\images\Cadillac-XTS_2013_1280x960.jpg)
+![Cadillac](..\images\GM_infotainment.jpg)
 
 
 ## Introduction
