@@ -58,9 +58,15 @@ Note: This site has roadmaps for other career paths as well.
 
 
 ## Courses
-<a href="https://www.coursera.org/professional-certificates/ibm-ai-product-manager" target="_blank">IBM AI PM Certificate</a>
+* <a href="https://www.coursera.org/professional-certificates/ibm-ai-product-manager" target="_blank">IBM AI PM Certificate</a>
 
 Note: Only some part of the specialization is needed for PMs with prior experience and Engineers with AI experience transiitoning to PM. It is free to audit.
+
+## Platforms
+
+* Product Hunt
+* Indie Hackers
+
 
 
 
