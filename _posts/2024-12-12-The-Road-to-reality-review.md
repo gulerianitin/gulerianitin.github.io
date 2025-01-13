@@ -35,8 +35,8 @@ The depth and breadth of The Road to Reality have sparked numerous discussions, 
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch/embed/mg93Dm-vYc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mg93Dm-vYc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Summary of the Discussion: 
