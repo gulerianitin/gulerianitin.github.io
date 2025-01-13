@@ -7,7 +7,7 @@ tags:
   - Product Development
 ---
 
-# Product Design and Development from the view of an Engineer
+# Product Design and Development tips
 
 ## Hackathons
 
@@ -42,5 +42,27 @@ I have worked at large Corporations such as CITI Financial as a client while at 
 * Different companies are in different hierarchy for this process. Some have top-down decision making, others have distributed decision making.
 * There is a top architect that usually designs the high level architecture. Design and Manufacturing teams come up with feasibility study.
 * They have strong Patenting process which is faster than filing individually.
+
+
+## Roadmap of Product Manager
+
+https://roadmap.sh/product-manager
+
+Note: This site has roadmaps for other career paths as well.
+
+## Books
+* Inspired by Marty Cagan ( Better than other two for PM funciton)
+* Cracking the PM Interview ( For interview prep)
+* Decode and Conquer ( For interview prep)
+* <a href=" https://www.goodreads.com/book/show/134555.Product_Design_and_Development" target="_blank">Product Design and Development</a>
+
+
+## Courses
+<a href="https://www.coursera.org/professional-certificates/ibm-ai-product-manager" target="_blank">IBM AI PM Certificate</a>
+
+Note: Only some part of the specialization is needed for PMs with prior experience and Engineers with AI experience transiitoning to PM. It is free to audit.
+
+
+
 
 
