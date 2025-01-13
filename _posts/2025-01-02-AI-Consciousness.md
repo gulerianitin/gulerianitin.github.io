@@ -1,6 +1,6 @@
 ---
 title: 'AI Consciousness'
-date: 2024-01-02
+date: 2025-01-02
 permalink: /posts/ai-consciousness
 tags:
   - AI

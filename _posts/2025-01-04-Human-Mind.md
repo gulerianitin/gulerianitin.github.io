@@ -1,4 +1,14 @@
 
+---
+title: 'Human Mind'
+date: 2025-01-02
+permalink: /posts/human-mind
+tags:
+  - Human Mind
+  - Mathematics
+  - Hypothesis
+---
+
 ![Buddha](..\images\buddha.jpg)
 
 # Exploring the Human Mind: A Holistic Mathematical and Biological Perspective
