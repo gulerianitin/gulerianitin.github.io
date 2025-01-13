@@ -1,10 +1,9 @@
-
 ---
 title: 'Human Mind'
 date: 2025-01-04
 permalink: /posts/human-mind
 tags:
-  - Human Mind
+  - Mind
   - Mathematics
   - Hypothesis
 ---
