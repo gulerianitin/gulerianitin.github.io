@@ -1,9 +1,12 @@
 
-# The Princeton Companion to Mathematics
-
-
-Here's an enhanced version of your review with additional sources:
-
+---
+title: 'The Princeton Companion to Mathematics Review'
+date: 2025-01-01
+permalink: /posts/the-princeton-companion-to-mathematics
+tags:
+  - Mathematical Physics
+  - Roger Penrose
+  - Theory of Everything
 ---
 
 **Review of *The Princeton Companion to Mathematics***  
