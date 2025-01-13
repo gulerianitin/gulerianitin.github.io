@@ -41,16 +41,10 @@ The depth and breadth of The Road to Reality have sparked numerous discussions, 
 
 ## Summary of the Discussion: 
 In these discussions, Penrose delves into various foundational topics, from the steady state theory of the universe to the intricacies of Twistor Theory. He emphasizes the pivotal role of mathematics in describing physical reality, critiquing mainstream theories like string theory while advocating for alternative approaches.
-Conclusion
 
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZihywtixUYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OmJ-4B-mS-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Further Exploration and Discussions**
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZihywtixUYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
