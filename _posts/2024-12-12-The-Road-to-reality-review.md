@@ -28,7 +28,7 @@ It would be better to take undergraduate courses and grad courses in mathematica
 Discussing his Book, The Road To Reality with Eric Weinstein and Roger Penrose
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch/embed/v=mg93Dm-vYc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch/embed/mg93Dm-vYc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -45,10 +45,10 @@ Roger Penrose discusses the simplicity of the equations governing the fundamenta
 
 The below videos kind of cover the most parts in  book. The first 16 chapters are similar to map of mathematics and the rest 18 are similar to the map of mathematics.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch/embed/v=ZihywtixUYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch/embed/ZihywtixUYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch/embed/v=OmJ-4B-mS-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch/embed/OmJ-4B-mS-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
