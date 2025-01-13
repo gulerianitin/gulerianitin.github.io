@@ -1,5 +1,5 @@
 
-# Princeton Guide to Mathemmatics
+# The Princeton Companion to Mathematics
 
 
 This book is a good book to have like a Wikipedia of mathematics as a guide like  the history of mathematics and the map of mathematics to understand and comprehend the vast array of mathematical literature out there. 
