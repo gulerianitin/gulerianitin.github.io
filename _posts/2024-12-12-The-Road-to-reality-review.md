@@ -31,7 +31,7 @@ For engineers or enthusiasts without a strong background in mathematical physics
 ##  Youtube Discussion of the Book
 
 
-The depth and breadth of The Road to Reality have sparked numerous discussions, including notable conversations like Roger Penrose’s discussion with Eric Weinstein. These discussions provide additional context and insights, making the book more approachable. A particularly insightful video can be found on YouTube, offering a succinct overview of the book’s content:
+The depth and breadth of The Road to Reality is covered in Roger Penrose’s discussion with Eric Weinstein, both prominent Mathematical Physicsts. These discussions provide additional context and insights, making the book more approachable. A particularly insightful video can be found on YouTube, offering a succinct overview of the book’s content:
 
 
 
@@ -65,7 +65,8 @@ These videos offer a structured summary of the book’s content, making it easie
 ## Other favourable reviews of the book
 For additional perspectives and reviews, you can explore Goodreads.
 
-https://www.goodreads.com/book/show/10638.The_Road_to_Reality
+[The Road to Reality on Goodreads](https://www.goodreads.com/book/show/10638.The_Road_to_Reality)
+
 
 
 
