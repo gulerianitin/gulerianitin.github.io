@@ -20,7 +20,7 @@ tags:
 
 
 
-#  Self Learn AI
+# Learn AI
 
 I have listed the courses I
  took to self learn AI without relying on a full time Master's Degree. These resources can help others in navigating the AI and machine learning landscape. Paid courses are marked paid, others are free to access. These cover the blue region in the Brain AI map above.
