@@ -8,6 +8,8 @@ tags:
   - AI4Finance
   - FinGPT
   - FinRobot
+  - FinNLP
+  - FinRL
 ---
 
 ![US Dollar](..\images\United_States_one_dollar_bill,_obverse.jpg)
@@ -91,17 +93,22 @@ The ease of use and open-source nature of these tools mean that developers of al
 
 ### FinGPT, FinRL, FinNLP and FinRobot
 
-https://ai4finance.org/
+[https://ai4finance.org/](https://ai4finance.org/)
 
 
 ### Architecture Diagram
 
-https://github.com/AI4Finance-Foundation
+[https://github.com/AI4Finance-Foundation
+](https://github.com/AI4Finance-Foundation)
 
 
 ### Bloombergy Terminal Alternative
-https://www.openbb.co/
+[https://www.openbb.co/](https://www.openbb.co/)
 
 ### Data sets  from a distributed Hedge Fund 
-https://numer.ai/
+[https://numer.ai/](https://numer.ai/)
+
+### Youtube channel in Hindi/English
+[Quantlab](https://www.youtube.com/@Quantlab)
+
 
