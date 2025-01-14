@@ -8,6 +8,8 @@ tags:
   - Map of Mathematics
 ---
 
+![The Princeton Companion to Mathematics](..\images\The_Princeton_Companion_to_Mathematics.jpg)
+
 **Review of *The Princeton Companion to Mathematics***  
 
 *The Princeton Companion to Mathematics* is an invaluable resource for anyone seeking a comprehensive guide to the vast landscape of mathematical literature. Acting much like a "Wikipedia of Mathematics," this book offers a detailed exploration of the history, concepts, and structure of mathematics. It provides a well-organized map to navigate the immense array of mathematical topics, making it an excellent reference for both students and seasoned mathematicians.
