@@ -96,7 +96,7 @@ The ease of use and open-source nature of these tools mean that developers of al
 [https://ai4finance.org/](https://ai4finance.org/)
 
 
-### Architecture Diagram
+### Code Repo
 
 [https://github.com/AI4Finance-Foundation
 ](https://github.com/AI4Finance-Foundation)
