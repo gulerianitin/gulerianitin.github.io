@@ -1,4 +1,3 @@
-
 ---
 title: 'The Road to Reality Review'
 date: 2024-12-12

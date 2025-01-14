@@ -1,12 +1,11 @@
-
 ---
 title: 'The Princeton Companion to Mathematics Review'
 date: 2025-01-01
 permalink: /posts/the-princeton-companion-to-mathematics
 tags:
-  - Mathematical Physics
-  - Roger Penrose
-  - Theory of Everything
+  - Pure Mathematics
+  - Timothy Gowers
+  - Map of Mathematics
 ---
 
 **Review of *The Princeton Companion to Mathematics***  
