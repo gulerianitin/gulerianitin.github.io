@@ -72,9 +72,14 @@ These resources provide the **theoretical depth** and **mathematical rigor** req
 
 ## Learn introduction to AI from Harvard and Mathematics for ML from Luis Serrano 
 
+Python is the language of choice for AI and ML. While there are many detailed courses on Python, this video is a good starting point.
+
+📺 **Watch here**: [Brief introduction to Python](https://www.youtube.com/watch?v=0K_eZGS5NsU) 
+
 ### **CS50’s AI Course by Harvard University(Free)**  
 
 Harvard’s renowned CS50 AI course, taught by world-class educators, provides a rigorous introduction to artificial intelligence, covering foundational concepts in search algorithms, machine learning, and neural networks. The content is designed for both beginners and experienced learners seeking an in-depth understanding of AI principles.  
+
 
 📖 **Course Website**: [CS50 AI - Harvard](https://cs50.harvard.edu/ai/2024/)  
 
