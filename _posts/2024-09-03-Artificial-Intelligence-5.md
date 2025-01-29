@@ -59,7 +59,7 @@ Understanding statistics is pivotal in AI for **data analysis, hypothesis testin
 Calculus is the foundation of many **machine learning algorithms, optimization techniques, and neural networks**. Khan Academy’s **Calculus** course covers **limits, derivatives, integrals, and their applications** in a highly engaging and structured manner.  
 
 📺 **Explore the course here**: [Calculus - Khan Academy](https://www.youtube.com/watch?v=EKvHQc3QEow&list=PL19E79A0638C8D449)  
-📺 **Explore the course here**: [Essencce of Calculus - 3blue1brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)  
+📺 **Explore the course here**: [Essence of Calculus - 3blue1brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)  
 
 
 Note: There are playlists from 3blue1brown as well 
