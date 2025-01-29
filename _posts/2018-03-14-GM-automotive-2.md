@@ -1,5 +1,5 @@
 ---
-title: 'Infotainment System'
+title: 'GM Infotainment System'
 date: 2018-08-14
 permalink: /posts/GM-automotive
 tags:
@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![Cadillac](..\images\Cadillac-XTS_2013_1280x960.jpg)
+![Cadillac](..\images\GM_infotainment.jpg)
 
 
 ## Introduction
