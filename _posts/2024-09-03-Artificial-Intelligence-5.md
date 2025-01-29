@@ -165,7 +165,7 @@ Hugging Face, a leading organisation in **open-source AI research**, provides ex
 ### **Video Resources**  
 
 🎥 **[Introduction to Reinforcement Learning (DeepMind x UCL)](https://youtu.be/TCCjZe0y4Qc?si=Ui792qkzjfA6ksZf)** – A highly acclaimed video series by top AI researchers at **DeepMind and University College London** that created AlphaGo.  
-🎥 **[Introduction to Reinforcement Learning (Quantamagazine)](https://www.youtube.com/watch?v=cx7l9ZGFZkw)** – AlphaFold behind the scenes that led to the nobel prize in Chemistry.  
+🎥 **[Alphafold (Quantamagazine)](https://www.youtube.com/watch?v=cx7l9ZGFZkw)** – AlphaFold behind the scenes that led to the nobel prize in Chemistry.  
 🎥 **[Alphago Documentary](https://www.youtube.com/watch?v=WXuK6gekAjM)** – How DeepMind's AlphaGo defeated the world's best Go players.  
 
 
